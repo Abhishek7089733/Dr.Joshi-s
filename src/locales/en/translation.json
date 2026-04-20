@@ -1,0 +1,266 @@
+{
+  "a11y": {
+    "language": "Choose language",
+    "whatsapp": "WhatsApp",
+    "call": "Call"
+  },
+  "brand": {
+    "name": "Dr. Joshi's",
+    "tagline": "Holistic Clinic"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "treatments": "Treatments",
+    "blog": "Blog",
+    "blogs": "Blogs",
+    "faq": "FAQ",
+    "contact": "Contact Us",
+    "contact_page": "Contact Page",
+    "franchise": "Franchise Partner"
+  },
+  "cta": {
+    "book": "Book Appointment",
+    "call": "Call Now",
+    "explore": "Explore Treatments",
+    "learn": "Learn More",
+    "readMore": "Read More",
+    "contactUs": "Contact Us",
+    "viewAllArticles": "View All Articles",
+    "sendMessage": "Send Message",
+    "submitEnquiry": "Submit Enquiry",
+    "bookConsultation": "Book a Consultation"
+  },
+  "hero": {
+    "tag": "Dr. Joshi's Holistic Multispecialty Clinic",
+    "title1": "Heal Naturally with",
+    "title2": "Ayurvedic",
+    "title3": "Treatments",
+    "desc": "Trusted since 2004 — authentic Ayurveda for kidney disease, cancer care, panchakarma, infertility and chronic ailments. Personalized treatment, root-cause healing, zero side effects.",
+    "form": {
+      "title": "Book Your Consultation",
+      "sub": "Our team will reach out within a few hours.",
+      "name": "Full Name",
+      "phone": "Mobile Number",
+      "email": "Email Address",
+      "treatment": "Select a Treatment",
+      "submit": "Book Now",
+      "disclaimer": "By submitting you agree to be contacted regarding your enquiry."
+    },
+    "trust1": "20+ Years of Practice",
+    "trust2": "100% Natural Remedies",
+    "trust3": "Holistic Root-Cause Care",
+    "formSuccess": "Thank you! Your appointment request has been submitted."
+  },
+  "stats": {
+    "s1n": "15+",
+    "s1l": "In-House Doctors",
+    "s1s": "Most Experienced & Qualified",
+    "s2n": "2500+",
+    "s2l": "Overseas Patients",
+    "s2s": "Trusted & Ethical Consultation",
+    "s3n": "10K+",
+    "s3l": "Success Stories",
+    "s3s": "Top-Level Professional Advice",
+    "s4n": "20+",
+    "s4l": "Years of Practice",
+    "s4s": "Treating Patients Since 2004"
+  },
+  "home": {
+    "servicesKicker": "Our Services",
+    "servicesTitle": "Authentic Ayurveda for Modern Lives",
+    "servicesDesc": "Three integrated pillars of care that work together to bring lasting health.",
+    "aboutKicker": "Treating Since 2004",
+    "aboutTitlePrefix": "A Holistic Clinic for",
+    "aboutTitleAccent": "Kidney, Cancer & Chronic Care",
+    "aboutLead": "For over two decades, Dr. Vyankatesh Joshi has helped patients heal from chronic and complex conditions using personalised Ayurvedic care. We focus on the root cause — not just symptom suppression — so that recovery is real and lasting.",
+    "aboutBadge": "Years of Authentic Ayurvedic Practice",
+    "aboutPoints": ["Authentic Ayurvedic Protocols", "Personalised Treatment Plans", "In-house Organic Medicines", "Compassionate Patient Care"],
+    "treatmentsKicker": "Specialised Treatments",
+    "treatmentsTitle": "Care for Complex, Chronic Conditions",
+    "treatmentsDesc": "Doctor-led Ayurvedic protocols for the conditions that need the most care.",
+    "whyKicker": "Why Choose Us",
+    "whyTitle": "Personalised Ayurvedic Care for Lasting Health",
+    "whyItems": [
+      { "t": "20+ Years of Expertise", "d": "Two decades of trusted, evidence-informed Ayurvedic healing." },
+      { "t": "Holistic Approach", "d": "Treat the root cause, not just the symptoms — for lasting results." },
+      { "t": "Personalised Care", "d": "Every patient receives a plan built around their constitution." },
+      { "t": "Natural Healing", "d": "100% natural herbs and remedies, free from harsh chemicals." },
+      { "t": "Patient-Centered", "d": "Compassionate care that puts your well-being first." },
+      { "t": "Safe & Proven", "d": "Carefully sourced organic medicines made in-house." }
+    ],
+    "blogKicker": "Latest from the Blog",
+    "blogTitle": "Insights for Healthy Living",
+    "clinicAlt": "Dr. Joshi's holistic Ayurvedic clinic in Mumbai"
+  },
+  "section": {
+    "causes": "Common Causes",
+    "symptoms": "Symptoms to Watch For",
+    "method": "Our Ayurvedic Treatment Approach",
+    "benefits": "Benefits of Ayurvedic Care",
+    "faqs": "Frequently Asked Questions",
+    "cta": "Ready to Begin Your Healing Journey?"
+  },
+  "pageHero": {
+    "kickerService": "Service",
+    "kickerTreatment": "Treatment",
+    "kickerAbout": "About Us",
+    "kickerContact": "Contact Us",
+    "kickerFaq": "Help Center",
+    "kickerFranchise": "Franchise Opportunity",
+    "kickerBlogs": "Insights",
+    "kickerServices": "Our Services",
+    "kickerTreatments": "Our Treatments"
+  },
+  "detail": {
+    "treatmentCtaSub": "Get a personalised assessment from our specialist Vaidyas.",
+    "serviceCtaSub": "Speak with our team and get a personalised plan tailored to you."
+  },
+  "about": {
+    "heroTitlePrefix": "Two Decades of",
+    "heroTitleAccent": "Authentic Ayurveda",
+    "heroSub": "Dr. Joshi's Holistic Multispecialty Clinic has been a trusted name for personalised Ayurvedic care in Mumbai since 2004.",
+    "storyKicker": "Our Story",
+    "storyTitle": "A Mission to Heal — Not Just Treat",
+    "storyP1": "What began as a single-doctor clinic in 2004 has grown into a multi-branch holistic practice serving thousands of patients across India and overseas. Our philosophy has always been simple — listen carefully, address the root cause and treat with respect for both ancient wisdom and modern science.",
+    "storyP2": "Today, our team of qualified Vaidyas, in-house pharmacy and dedicated patient-care staff work together to deliver care that is genuinely personalised — never one-size-fits-all.",
+    "storyPoints": ["Authentic classical protocols", "In-house organic medicines", "Trained, qualified Vaidyas", "Compassionate patient care", "Coordinated with modern medicine", "Transparent treatment plans"],
+    "founderKicker": "Our Founder",
+    "founderTitle": "Dr. Vyankatesh Joshi",
+    "founderRole": "Founder · Holistic Multispecialty Clinic · Certified Life Coach",
+    "founderBio": "With more than 20 years of clinical practice, Dr. Joshi specialises in Ayurvedic management of kidney disease, cancer support, infertility and chronic lifestyle conditions. He is also a certified life coach and is widely respected for his integrative, patient-first approach.",
+    "valuesKicker": "Our Values",
+    "valuesTitle": "What Guides Our Practice",
+    "values": [
+      { "t": "Authenticity", "d": "Classical formulations, prepared in-house from organic raw materials." },
+      { "t": "Honesty", "d": "We tell you what is realistic — no inflated promises, no hidden costs." },
+      { "t": "Continuity", "d": "The same doctor, the same plan, all the way through your healing journey." }
+    ],
+    "imgClinicAlt": "Dr. Joshi consulting at the clinic",
+    "imgDoctorAlt": "Dr. Vyankatesh Joshi"
+  },
+  "contact": {
+    "heroPart1": "Let's Begin Your",
+    "heroPart2": "Healing Journey",
+    "heroSub": "Reach out to book a consultation, ask a question or get directions to our clinic.",
+    "getInTouch": "Get in Touch",
+    "callUs": "Call Us",
+    "email": "Email",
+    "address": "Address",
+    "addressLine": "Shop no. 19, Ground Floor, Raoji Sojpal Building, Gokhale Rd, Near Kabutar Khana, Dadar West, Mumbai 400028",
+    "hours": "Clinic Hours",
+    "hoursLine": "Monday – Saturday · 9:30 AM – 8:00 PM",
+    "sendTitle": "Send Us a Message",
+    "sendSub": "Our team will respond within a few hours during clinic time.",
+    "phName": "Full Name",
+    "phPhone": "Phone Number",
+    "phEmail": "Email Address",
+    "phMessage": "How can we help you?",
+    "thankYou": "Thank you! We will be in touch shortly.",
+    "imgAlt": "Dr. Joshi's clinic interior in Mumbai"
+  },
+  "faq": {
+    "filterAll": "All",
+    "heroPart1": "Frequently",
+    "heroPart2": "Asked Questions",
+    "heroSub": "Quick answers to the questions our patients ask the most."
+  },
+  "faqCat": {
+    "General": "General",
+    "Treatment": "Treatment",
+    "Panchakarma": "Panchakarma",
+    "Kidney Care": "Kidney Care",
+    "Cancer Care": "Cancer Care",
+    "Payments": "Payments",
+    "Franchise": "Franchise"
+  },
+  "franchise": {
+    "heroTitleBefore": "Build a",
+    "heroTitleAccent": "Trusted Ayurvedic",
+    "heroTitleAfter": "Practice with Us",
+    "heroSub": "Bring authentic, doctor-led Ayurvedic care to your city — with the systems, brand and clinical support to succeed.",
+    "whyTitle": "Why Partner with Dr. Joshi's Clinic?",
+    "whyP": "Quality Ayurveda is in high demand — but patients struggle to find clinics they can trust. Our franchise model lets qualified entrepreneurs and healthcare professionals open a Dr. Joshi's centre with everything done right from day one: protocols, doctors, medicines, marketing and patient care.",
+    "benefitsTitle": "Partnership Benefits",
+    "benefits": [
+      { "t": "Established Brand", "d": "Open under a trusted Ayurvedic name with 20+ years of clinical reputation." },
+      { "t": "Doctor Training", "d": "Comprehensive clinical and operational training for your team." },
+      { "t": "Strong Margins", "d": "Healthy unit economics with multiple revenue streams." },
+      { "t": "Marketing Support", "d": "Lead generation, digital marketing and brand collaterals included." },
+      { "t": "In-House Medicines", "d": "Authentic, quality-checked formulations supplied directly to you." },
+      { "t": "Clinical Mentorship", "d": "Ongoing case discussions and mentorship from senior Vaidyas." }
+    ],
+    "lookTitle": "What We Look for in Partners",
+    "lookItems": [
+      "Healthcare background or strong business experience",
+      "Suitable clinic space (600–1200 sq ft) in a good catchment",
+      "Capacity to invest in setup, equipment and working capital",
+      "Commitment to clinical quality and patient experience",
+      "Long-term vision — minimum 5-year partnership",
+      "Local team you can build and lead"
+    ],
+    "formTitle": "Franchise Enquiry",
+    "formSub": "Tell us a little about yourself and we will get back within 2 working days.",
+    "phName": "Full Name",
+    "phPhone": "Phone Number",
+    "phEmail": "Email Address",
+    "phCity": "City of Interest",
+    "phBackground": "Tell us about your background and investment range",
+    "thankYou": "Thank you! Our partnerships team will be in touch."
+  },
+  "blogs": {
+    "heroPart1": "The",
+    "heroAccent": "Ayurvedic",
+    "heroPart2": "Living Blog",
+    "listHeroSub": "Practical, doctor-written guides on health, healing and lifestyle — written for real life, not the textbook.",
+    "moreArticles": "More Articles",
+    "backToArticles": "Back to all articles"
+  },
+  "servicesIndex": {
+    "heroPart1": "Three Pillars of",
+    "heroAccent": "Authentic Ayurveda",
+    "heroSub": "Carefully designed services that work together for complete, lasting wellness.",
+    "learnMore": "Learn More"
+  },
+  "treatmentsIndex": {
+    "heroPart1": "Specialised Care for",
+    "heroAccent": "Complex Conditions",
+    "heroSub": "Doctor-led Ayurvedic protocols for the conditions that need the most thoughtful, integrative care.",
+    "learnMore": "Learn More"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "desc": "The page you're looking for doesn't exist or has been moved.",
+    "goHome": "Go Home",
+    "treatment": "Treatment not found",
+    "treatmentBack": "Back to treatments",
+    "service": "Service not found",
+    "serviceBack": "Back to services",
+    "article": "Article not found",
+    "articleBack": "Back to all blogs"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "desc": "An unexpected error occurred. Please try again.",
+    "tryAgain": "Try again",
+    "goHome": "Go home"
+  },
+  "footer": {
+    "blurb": "Authentic Ayurvedic & Holistic Treatments — an integrative approach to lasting health since 2004.",
+    "quickLinks": "Quick Links",
+    "branches": "Branches",
+    "branch1": "Borivali, Mumbai",
+    "branch2": "Dadar West, Mumbai",
+    "branch3": "Thane",
+    "branch4": "Pune",
+    "branch5": "Nashik",
+    "contact": "Contact",
+    "address": "Shop no. 19, Ground Floor, Raoji Sojpal Building, Gokhale Rd, Dadar West, Mumbai 400028",
+    "rights": "All rights reserved.",
+    "copyright": "Dr. Joshi's Holistic Multi Specialty Clinic."
+  },
+  "topBar": {
+    "hours": "Mon–Sat · 9:30 AM – 8:00 PM"
+  }
+}
